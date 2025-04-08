@@ -1,2 +1,3 @@
-# Projeto-1---DNC
-Primeira landing page no curso da DNC de Front-End
+# Landing_page_DNC
+
+Este é o primeiro projeto base no curso de Desenvolvedor Front-end da Escola DNC.
